@@ -1,0 +1,1 @@
+General content in this organization (other than the stand-alone software) is licensed under a [creative commons](https://github.com/DevoLearn/License-DRM/blob/master/CC-BY-SA-4.0%20License.md) license. For the stand-alone software, an [MIT open-source software license](https://github.com/DevoLearn/devolearn/blob/master/LICENSE) applies.
